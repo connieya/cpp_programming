@@ -13,5 +13,5 @@ void func()
 {
     int i = 5;
     printf("i = %d\n",i);
-    printf("global i = %d\n",::i);
+    printf("global i = %d\n",::-i);
 }
